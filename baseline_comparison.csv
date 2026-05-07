@@ -1,0 +1,5 @@
+method,n_clusters,mean_eta_c,median_eta_c,max_eta_c,mean_radius_m,pct_singletons,pct_noncontiguous,modularity_zone,coverage_zone,performance_zone
+NBZC (proposed),107,0.3628,0.2879,0.999,693.0,13.1,0.0,0.2517,0.2629,0.9849
+Spatial KMeans,107,0.4243,0.4375,1.0,508.4,37.4,0.0,0.2801,0.2968,0.9804
+Greedy Modularity,7,0.2164,0.1517,0.5025,6956.6,0.0,0.0,0.7063,0.8785,0.8488
+Random Contiguous,107,0.3757,0.3412,1.0,831.8,35.5,0.0,0.2641,0.2769,0.9839
